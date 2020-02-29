@@ -92,3 +92,37 @@ width: 100%;
   .col-9{
     width:100%;}
 }
+
+.imhungry{
+  background-color: red;
+}
+
+.col-4{
+
+text-align: center;
+}
+
+
+.parallax {
+  /* The image used */
+  background-image: url("poverty1.jpg");
+
+  /* Set a specific height */
+  height: 70vh;
+  width: auto;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax img{
+  width: auto;
+  height: 70%;
+}
+
+.row a{
+  color: white;
+  text-decoration: none;
+}
