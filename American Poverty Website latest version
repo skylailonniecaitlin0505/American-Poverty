@@ -1,0 +1,127 @@
+<html>
+  <head>
+    <title>American Poverty</title>
+    <style>
+    h1{
+      text-align: center;
+      color: #007DD0;
+      font-size: 120px;
+    }
+    .video{
+      background-repeat: no-repeat;
+      background-color: black;
+      text-align: center;
+    }
+    h2{
+      font-size: 30px;
+      text-align: center;
+    }
+    li{
+      list-style: none;
+      color: #FE0C00;
+    }
+
+  body{
+    background-color: black;
+  }
+
+    </style>
+    <link rel = "stylesheet" href = "grid.css">
+  </head>
+  <body>
+    <br><br>
+    <h1>American Poverty</h1>
+    <br><br><br>
+    <div class="video">
+      <video class = "col-3" center; width = 'auto' height = '30%' controls>
+        <source src = "American Poverty.mp4" type = "video/mp4">
+      </video>
+    </div>
+    <h2>
+      Here is a list that shows the percentages of people living in poverty as of 2020.
+    </h2>
+    <br><br>
+    <div class = "row">
+      <div class = "col-3">
+        <ul>
+          <li> Alabama: 17.05%</li>
+          <li> Alaska: 10.54% </li>
+          <li> Arizona: 15.72% </li>
+          <li> Arkansas: 17.06%</li>
+          <li> California: 14.02% </li>
+          <li> Colorado: 10.68% </li>
+          <li> Conneticut: 9.73%</li>
+          <li> Delaware: 11.56%</li>
+          <li> Florida: 14.49%</li>
+          <li> Georgia: 15.61%</li>
+          <li> Hawaii: 9.67%</li>
+          <li> Idaho: 13.56%</li>
+          <li> Illinois: 12.76%</li>
+        </ul>
+      </div>
+      <div class = "col-3">
+        <ul>
+          <li> Indiana: 13.69%  </li>
+          <li> Iowa: 11.29% </li>
+          <li> Kansas: 12.04% </li>
+          <li> Kentucky: 17.39%</li>
+          <li> Lousiana: 18.84% </li>
+          <li> Maine: 12.14%</li>
+          <li> Maryland: 9.22%</li>
+          <li> Massachusetts: 10.40%</li>
+          <li> Michigan: 14.63%</li>
+          <li> Minnesota: 9.90%</li>
+          <li> Mississippi: 20.07% </li>
+          <li> Missouri: 13.76% </li>
+          <li> Montana: 13.35% </li>
+        </ul>
+      </div>
+      <div class = "col-3">
+        <ul>
+          <li> Nebraska: 11.22%</li>
+          <li> Nevada: 13.46%</li>
+          <li> New Hampshire: 7.62%</li>
+          <li> New Jersey:10.18% </li>
+          <li> New Mexico: 19.61% </li>
+          <li> New York: 14.26% </li>
+          <li> North Carolina: 15.01%  </li>
+          <li> North Dakota: 10.54%</li>
+          <li> Ohio: 14.14% </li>
+          <li> Oklahoma: 15.51%</li>
+          <li> Oregon: 13.85 </li>
+          <li> Pennsylvania: 12.34% </li>
+        </ul>
+      </div>
+      <div class = "col-3">
+        <ul>
+          <li> Rhode Island: 12.59% </li>
+          <li> South Carolina: 15.55% </li>
+          <li> South Dakota: 13.09% </li>
+          <li> Tennessee:15.73% </li>
+          <li> Texas:15.11% </li>
+          <li> Utah: 10.18%</li>
+          <li> Vermont: 10.73% </li>
+          <li> Virginia: 10.62%</li>
+          <li> Washington: ll.26%  </li>
+          <li> West Virginia: 17.25% </li>
+          <li> Wisconsin: 11.56% </li>
+          <li> Wyoming: 10.88%</li>
+        </ul>
+      </div>
+    </div>
+    <br>
+    <img class= "spentimage" src="spent21[1].png">
+    <br>
+    <br>
+    <br>
+    <a href="http://playspent.org/">Click here to play "Spent" and see if you could live in poverty! </a>
+    <br>
+    <a href="https://nytimes.com/2020/01/13/us/food-stamps-work-west-virginia.html?searchResultPosition=14"> What Happened When a State Made Food Stamps Harder to Get</a>
+    <br>
+    <a href="https://www.nytimes.com/2019/12/16/us/politics/child-tax-credit.html?searchResultPosition=22"> The Tax Break for Cildren, Except the Ones Who Need It Most</a>
+    <br>
+    <a href="https://www.usnews.com/news/education-news/articles/2020-01-30/more-students-are-homeless-than-ever-before"> More Students Are Homele Than Ever Before</a>
+    <br>
+    <a href="https://www.usnews.com/news/healthiest-communities/articles/2020-01-27/higher-poverty-tied-to-increased-youth-suicide-risk-study-shows"> Study: Higher Poverty Tied to Increased Youth Suicide Risk </a>
+  </body>
+</html>
