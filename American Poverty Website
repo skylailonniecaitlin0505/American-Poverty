@@ -296,16 +296,13 @@
 
     <br><br>
 
+    <div class= "Quote1"> "The test of our progress is not whether we add more to the abundance of those who have much; it is whether we provide enough for those who have too little."<br>-Franklin D. Roosevelt</p>
+
     <div class="parallax">
 
       <!-- <img src="poverty1.jpg" alt="poverty" style="width: 100%; height: auto;"> -->
 
     </div>
-
-<br><br>
-
-    <div class= "Quote1"> "The test of our progress is not whether we add more to the abundance of those who have much; it is whether we provide enough for those who have too little."<br>-Franklin D. Roosevelt</p>
-
 
 <p id = "donations"> <br> <h2> Websites to Donate to</h2>
 
@@ -326,10 +323,17 @@
   <div class="col-4">
     <a href="https://www.children.org/see-the-impact/where-we-work/north-america-united-states"><img class="newsimages" src="childreninternational.jpg"><br><br>Children International</a>
   </div>
-
+  <div class="col-4">
+    <a href="https://www.globalgiving.org/search/?size=25&nextPage=1&sortField=sortorder&selectedCountries=00unista&loadAllResults=true"><img class="newsimages" src="globalgiving.png"><br><br>Global Giving</a>
+  </div>
+  <div class="col-4">
+    <a href="https://donate.unicefusa.org/page/contribute/help-save-childrens-lives-29161?ms=ref_dig_2015_web_header_donate&initialms=referral_dig_2018_mis&_ga=2.171282725.483486647.1584893010-302709216.1584893010&_gac=1.24049096.1584893010.Cj0KCQjwmdzzBRC7ARIsANdqRRmQaKaJNxv6s7tZSsuhP4sNtRWxjODDlHyEqNrGOg6mzyIvfM_2pHQaAiGBEALw_wcB"><img class="newsimages" src="UNICEF.jpg"><br><br>UNICEF</div>
 </div>
 
-<br><br><br>
+<br><br>
+
+<div class="Quote1"> "Giving is not just about making a donation. It is about making a difference" <br> - Kathy Kelvin <br><br><br></div>
+
 <div class="parallax2">
 </div>
 <br><br>
