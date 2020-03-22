@@ -76,6 +76,8 @@
 
   .sticky{
 
+    text-align: center;
+
     position: -webkit-sticky;
 
     position: sticky;
@@ -103,6 +105,16 @@
   body{
 
     padding-top: 10px;
+
+  }
+
+  .quote{
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+    font-size: 25px;
 
   }
 
@@ -138,7 +150,9 @@
 
     <h1>American Poverty</h1>
 
-    <br><br><br>
+    <div class="quote"> "Overcoming poverty is not a task of charity, it is an act of justice." <br> - Nelson Mandela </div>
+
+    <br><br><br><br><br>
 
     <div class="video">
 
@@ -307,27 +321,49 @@
 <p id = "donations"> <br> <h2> Websites to Donate to</h2>
 
     <br><br>
+
 <div class="row">
+
   <div class="col-4">
+
     <a href="https://donate.worldvision.org/gift-catalog/poverty-in-america"><img class="newsimages" src="worldvision.jpg"><br><br>World Vision</a>
+
   </div>
+
   <div class="col-4">
+
     <a href="https://www.savethechildren.org/us/what-we-do/where-we-work/usa"><img class="newsimages"src="STC.jpg"><br><br>Save the Children</a>
+
   </div>
+
   <div class="col-4">
+
     <a href="https://www.feedingamerica.org"><img class="newsimages" src="feedingamerica.png"><br><br>Feeding America</a>
+
   </div>
+
 </div>
+
 <br><br>
+
 <div class="row">
+
   <div class="col-4">
+
     <a href="https://www.children.org/see-the-impact/where-we-work/north-america-united-states"><img class="newsimages" src="childreninternational.jpg"><br><br>Children International</a>
+
   </div>
+
   <div class="col-4">
+
     <a href="https://www.globalgiving.org/search/?size=25&nextPage=1&sortField=sortorder&selectedCountries=00unista&loadAllResults=true"><img class="newsimages" src="globalgiving.png"><br><br>Global Giving</a>
+
   </div>
+
   <div class="col-4">
+
     <a href="https://donate.unicefusa.org/page/contribute/help-save-childrens-lives-29161?ms=ref_dig_2015_web_header_donate&initialms=referral_dig_2018_mis&_ga=2.171282725.483486647.1584893010-302709216.1584893010&_gac=1.24049096.1584893010.Cj0KCQjwmdzzBRC7ARIsANdqRRmQaKaJNxv6s7tZSsuhP4sNtRWxjODDlHyEqNrGOg6mzyIvfM_2pHQaAiGBEALw_wcB"><img class="newsimages" src="UNICEF.jpg"><br><br>UNICEF</div>
+
 </div>
 
 <br><br>
@@ -335,7 +371,9 @@
 <div class="Quote1"> "Giving is not just about making a donation. It is about making a difference" <br> - Kathy Kelvin <br><br><br></div>
 
 <div class="parallax2">
+
 </div>
+
 <br><br>
 
 <p id="info"> <br> <h2>Links to Articles and SPENT</h2>
