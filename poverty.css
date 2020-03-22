@@ -259,7 +259,7 @@ text-align: center;
 }
 
 .parallax2{
-  background-image: url("poverty2[1]");
+  background-image: url("poverty1.jpg");
   height:70vh;
   width: auto;
   background-attachment: fixed;
@@ -268,8 +268,12 @@ text-align: center;
   background-size: cover;
 }
 
-.parallax2 img{
-
+.parallax2{
+  background-image: url("poverty2.jpg");
+  height:70vh;
   width: auto;
-  height:70%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
