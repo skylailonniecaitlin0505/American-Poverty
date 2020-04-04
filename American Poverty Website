@@ -98,7 +98,9 @@
 
     text-decoration: none;
 
-    color: #FFFFFF
+    color: #FFFFFF;
+
+    font-size: 20px
 
   }
 
@@ -112,13 +114,19 @@
 
     text-align: center;
 
-    color: #FFFFFF;
+    color: #FE0C00;
 
     font-size: 25px;
 
   }
 
+  h3{
 
+    font-size: 15px;
+
+    color: #FFFFFF
+
+  }
 
     </style>
 
@@ -164,7 +172,9 @@
 
     </div>
 
-    <p id = "states"> <br><h2>
+    <p id = "states"> <br>
+
+    <h2>
 
       Here is a list that shows the percentages of people living in poverty as of 2020.
 
@@ -312,13 +322,17 @@
 
     <div class= "Quote1"> "The test of our progress is not whether we add more to the abundance of those who have much; it is whether we provide enough for those who have too little."<br>-Franklin D. Roosevelt</p>
 
+    <br>
+
     <div class="parallax">
 
       <!-- <img src="poverty1.jpg" alt="poverty" style="width: 100%; height: auto;"> -->
 
     </div>
 
-<p id = "donations"> <br> <h2> Websites to Donate to</h2>
+    <br>
+
+<p id = "donations"> <h2> Websites to Donate to</h2>
 
     <br><br>
 
@@ -362,9 +376,9 @@
 
   <div class="col-4">
 
-    <a href="https://donate.unicefusa.org/page/contribute/help-save-childrens-lives-29161?ms=ref_dig_2015_web_header_donate&initialms=referral_dig_2018_mis&_ga=2.171282725.483486647.1584893010-302709216.1584893010&_gac=1.24049096.1584893010.Cj0KCQjwmdzzBRC7ARIsANdqRRmQaKaJNxv6s7tZSsuhP4sNtRWxjODDlHyEqNrGOg6mzyIvfM_2pHQaAiGBEALw_wcB"><img class="newsimages" src="UNICEF.jpg"><br><br>UNICEF</div>
+    <a href="https://donate.unicefusa.org/page/contribute/help-save-childrens-lives-29161?ms=ref_dig_2015_web_header_donate&initialms=referral_dig_2018_mis&_ga=2.171282725.483486647.1584893010-302709216.1584893010&_gac=1.24049096.1584893010.Cj0KCQjwmdzzBRC7ARIsANdqRRmQaKaJNxv6s7tZSsuhP4sNtRWxjODDlHyEqNrGOg6mzyIvfM_2pHQaAiGBEALw_wcB"><img class="newsimages" src="UNICEF.jpg"><br><br>UNICEF</a>
 
-</div>
+</div></div>
 
 <br><br>
 
@@ -374,9 +388,9 @@
 
 </div>
 
-<br><br>
+<br>
 
-<p id="info"> <br> <h2>Links to Articles and SPENT</h2>
+<p id="info"> <h2>Links to Articles and SPENT</h2>
 
   <br><br>
 
@@ -424,9 +438,16 @@
 
     </div>
 
+
   </div>
 
   <br><br>
+
+  <div class="Quote1"> "There's enough on this planet for everyone's needs but not for everyone's greed" <br> - Mahatma Ghandi <br></div>
+
+  <br><br>
+
+  <h3> This website was made by Caitlin and Sky-lailonnie from the Girl Scout Leadership Institute</h3>
 
   </body>
 
